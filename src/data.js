@@ -27,7 +27,7 @@ let sessionListData = [{
     isSelf: false
 }, {
     sessionId: 1,
-    text: '项目地址: https://github.com/coffcer/vue-chat',
+    text: '项目地址: https://github.com/gxr404/backbone-chat',
     date: new Date(),
     isSelf: false
 }, {
