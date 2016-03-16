@@ -2,7 +2,7 @@
 -----
 仿民间大神https://github.com/Coffcer/vue-chat 制作的小作品  
 大神用的是vue+webpack,而我用的Backbone仿做
-[BackboneChatgif](https://http://gxr404.github.io/backbone-chat/dist/images/GIF.gif)
+[BackboneChatgif](http://gxr404.github.io/backbone-chat/dist/images/GIF.gif)
 
 ##Getting started
 ```
